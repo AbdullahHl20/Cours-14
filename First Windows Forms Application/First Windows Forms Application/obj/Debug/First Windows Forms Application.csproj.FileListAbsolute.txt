@@ -1,0 +1,10 @@
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\bin\Debug\First Windows Forms Application.exe.config
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\bin\Debug\First Windows Forms Application.exe
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\bin\Debug\First Windows Forms Application.pdb
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.csproj.AssemblyReference.cache
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.Properties.Resources.resources
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.csproj.GenerateResource.cache
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.exe
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.pdb
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\MyFirstWinFormsProject.Form1.resources
