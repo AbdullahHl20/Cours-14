@@ -23,5 +23,17 @@ namespace First_Windows_Forms_Application
             Form frmOne = new Form1();
             frmOne.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form frmOne = new Form1();
+            frmOne.ShowDialog();
+        }
+
+        private void btnMesageBoxForm_Click(object sender, EventArgs e)
+        {
+            Form frmMessage = new frmMessageBox();
+            frmMessage.ShowDialog();
+        }
     }
 }
