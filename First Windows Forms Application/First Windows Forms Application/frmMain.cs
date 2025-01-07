@@ -47,5 +47,11 @@ namespace First_Windows_Forms_Application
             Form frmTextBox = new frmTextBox();
             frmTextBox.ShowDialog();
         }
+
+        private void button4_Click(object sender , EventArgs e)
+        {
+            Form frmPictureBox = new frmPictureBox();
+            frmPictureBox.ShowDialog();
+        }
     }
 }

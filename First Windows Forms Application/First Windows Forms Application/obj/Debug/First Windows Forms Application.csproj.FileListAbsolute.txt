@@ -23,3 +23,4 @@ D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Ap
 D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.exe
 D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.pdb
 D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmTextBox.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmPictureBox.resources
