@@ -35,5 +35,11 @@ namespace First_Windows_Forms_Application
             Form frmMessage = new frmMessageBox();
             frmMessage.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form frmMessage = new frmChkRadioGroup();
+            frmMessage.ShowDialog();
+        }
     }
 }
