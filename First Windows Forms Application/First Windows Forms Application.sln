@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Windows Forms Applica
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pizaa", "Pizaa\Pizaa.csproj", "{8731E7EF-0663-470F-9D8A-FEADB77084B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XO_Game_Final", "XOGame\XO_Game_Final.csproj", "{E3965E80-0103-4FE2-8799-544B0BA192E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8731E7EF-0663-470F-9D8A-FEADB77084B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8731E7EF-0663-470F-9D8A-FEADB77084B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8731E7EF-0663-470F-9D8A-FEADB77084B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3965E80-0103-4FE2-8799-544B0BA192E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3965E80-0103-4FE2-8799-544B0BA192E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3965E80-0103-4FE2-8799-544B0BA192E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3965E80-0103-4FE2-8799-544B0BA192E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

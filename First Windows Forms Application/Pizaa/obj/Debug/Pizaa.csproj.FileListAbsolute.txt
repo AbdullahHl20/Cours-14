@@ -7,3 +7,13 @@ C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\Pizaa\bi
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\Pizaa\bin\Debug\Pizaa.pdb
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\Pizaa\obj\Debug\Pizaa.exe
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\Pizaa\obj\Debug\Pizaa.pdb
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\bin\Debug\Pizaa.exe.config
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\bin\Debug\Pizaa.exe
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\bin\Debug\Pizaa.pdb
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\obj\Debug\Pizaa.csproj.AssemblyReference.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\obj\Debug\Pizza.Form1.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\obj\Debug\Pizaa.Properties.Resources.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\obj\Debug\Pizaa.csproj.GenerateResource.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\obj\Debug\Pizaa.csproj.CoreCompileInputs.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\obj\Debug\Pizaa.exe
+D:\Trraining c++\Cours 14\First Windows Forms Application\Pizaa\obj\Debug\Pizaa.pdb
