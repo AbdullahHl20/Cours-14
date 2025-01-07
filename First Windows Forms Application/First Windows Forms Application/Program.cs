@@ -1,4 +1,5 @@
-﻿using System;
+﻿using First_Windows_Forms_Application;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,8 @@ namespace MyFirstWinFormsProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmMain());
+            
         }
     }
 }

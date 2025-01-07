@@ -8,3 +8,4 @@ C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Wi
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.exe
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.pdb
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\MyFirstWinFormsProject.Form1.resources
+C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmMain.resources

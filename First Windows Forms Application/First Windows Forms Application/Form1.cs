@@ -92,5 +92,10 @@ namespace MyFirstWinFormsProject
             label1.Text = "Mohammed Abu-Hadhoud";
 
         }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
