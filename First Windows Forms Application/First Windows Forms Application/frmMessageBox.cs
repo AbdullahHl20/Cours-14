@@ -34,5 +34,10 @@ namespace First_Windows_Forms_Application
                 MessageBox.Show("User Pressed Ok");
             }
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Are You Sure", "Confirm!", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
+        }
     }
 }
