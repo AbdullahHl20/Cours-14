@@ -10,3 +10,17 @@ C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Wi
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\MyFirstWinFormsProject.Form1.resources
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmMain.resources
 C:\Users\abdullah\Source\Repos\Cours-14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmMessageBox.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\bin\Debug\First Windows Forms Application.exe.config
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\bin\Debug\First Windows Forms Application.exe
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\bin\Debug\First Windows Forms Application.pdb
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.csproj.AssemblyReference.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\MyFirstWinFormsProject.Form1.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmMain.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmMessageBox.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmPictureBox.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.frmTextBox.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First_Windows_Forms_Application.Properties.Resources.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.csproj.GenerateResource.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.csproj.CoreCompileInputs.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.exe
+D:\Trraining c++\Cours 14\First Windows Forms Application\First Windows Forms Application\obj\Debug\First Windows Forms Application.pdb

@@ -1,0 +1,10 @@
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\bin\Debug\XOGame.exe.config
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\bin\Debug\XOGame.exe
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\bin\Debug\XOGame.pdb
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\obj\Debug\XOGame.csproj.AssemblyReference.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\obj\Debug\XOGame.Properties.Resources.resources
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\obj\Debug\XOGame.csproj.GenerateResource.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\obj\Debug\XOGame.csproj.CoreCompileInputs.cache
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\obj\Debug\XOGame.exe
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\obj\Debug\XOGame.pdb
+D:\Trraining c++\Cours 14\First Windows Forms Application\XOGame\obj\Debug\XO_Game_Final.Form1.resources
